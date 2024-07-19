@@ -1,67 +1,87 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://www.linkedin.com/in/nathanael-kouakou" target="_blank">
+    <img src="https://via.placeholder.com/150" width="150" alt="Votre Photo">
+  </a>
 </p>
 
-## About Laravel
+<h1 align="center">Curriculum Vitae - Nathanael KOUAKOU</h1>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p align="center">
+  <a href="mailto:votre.email@example.com"><img src="https://img.shields.io/badge/Email-votre.email%40example.com-informational"></a>
+  <a href="https://www.linkedin.com/in/nathanael-kouakou"><img src="https://img.shields.io/badge/LinkedIn-nathanael--kouakou-blue"></a>
+  <a href="https://github.com/votreprofil"><img src="https://img.shields.io/badge/GitHub-votreprofil-black"></a>
+</p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## À propos de moi
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Étudiant en développement avec une expertise en géomatique, passionné par les technologies de l'information géographique et le développement d'applications web. Expériences variées allant de la gestion de projets de collecte de données à la création d'applications web et mobiles innovantes.
 
-## Learning Laravel
+## Expérience Professionnelle
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Développeur Full Stack chez YOWL
+*Date de début - Date de fin*
+- Développement d'une application web pour centraliser les commentaires sur du contenu trouvé sur Internet.
+- Utilisation de PHP, JS, Laravel, Vue.js, et Docker.
+- Mise en place d'un dépôt GitHub complet et développement d'un MVP.
+- Déploiement de l'application sur Heroku.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### Géomaticien Expert
+*Date de début - Date de fin*
+- Sollicité par le gouvernement pour développer une application de collecte de données mobile.
+- Application des SIG, modélisation spatiale et cartographie numérique, notamment pour l'agriculture.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Formation
 
-## Laravel Sponsors
+### EPITECH
+*Date de début - Date de fin*
+- Étudiant en développement.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### Licence en Géographie
+*Date de début - Date de fin*
+- [Nom de l'Université]
 
-### Premium Partners
+## Compétences
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### Développement Web
+- **Front-end**: Vue.js, Bootstrap, Tailwind CSS.
+- **Back-end**: PHP, Laravel, Node.js, Flask, SQLite, SQLAlchemy.
 
-## Contributing
+### Géomatique et SIG
+- Utilisation avancée des SIG pour la modélisation spatiale et la cartographie numérique.
+- Collecte et analyse de données géospatiales.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Web Scraping
+- Développement de scripts de web scraping pour collecter et analyser des données en ligne.
+- Utilisation de bibliothèques Python comme BeautifulSoup, Scrapy et Selenium.
 
-## Code of Conduct
+### Autres
+- VBA, Python, Docker, Git, GitHub.
+- Développement d'applications mobiles pour la collecte de données.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Projets
 
-## Security Vulnerabilities
+### Application de Paiement Marchand
+- Aider les commerçants à obtenir des avances de stock auprès de leur grossiste.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Protection et Restauration des Mangroves
+- Surveillance de l’état des mangroves avec des dispositifs IoT et évaluation de la couverture via des observations satellitaires.
 
-## License
+### YOWL
+- Application web pour centraliser les commentaires sur du contenu en ligne.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# yapka
+### Web Scraping
+- Projet de web scraping pour collecter des données de divers sites web et les analyser afin d'extraire des informations pertinentes.
+
+## Langues
+- Français: Courant
+- Anglais: Professionnel
+
+## Centres d'intérêt
+- Géomarketing
+- Développement immobilier
+- Protection environnementale
+- Formation et soutien des étudiants
+
+---
+
+Merci d'avoir pris le temps de consulter mon CV. Pour plus d'informations, n'hésitez pas à me contacter via les coordonnées ci-dessus.
