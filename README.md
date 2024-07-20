@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nathanael-kouakou" target="_blank">
-    <img src="https://via.placeholder.com/150" width="150" alt="Votre Photo">
+<!--     <img src="https://img.icons8.com/?size=100&id=Ve5z6WN65Tg6&format=png&color=000000" width="150" alt="Votre Photo"> -->
+
+
   </a>
 </p>
 
