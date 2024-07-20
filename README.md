@@ -4,31 +4,28 @@
   </a>
 </p>
 
-<h1 align="center">Curriculum Vitae - Nathanael KOUAKOU</h1>
+<h1 align="center">Nathanael KOUAKOU</h1>
 
 <p align="center">
-  <a href="mailto:votre.email@example.com"><img src="https://img.shields.io/badge/Email-votre.email%40example.com-informational"></a>
+  <a href="mailto:bekous2000@gmail.com"><img src="https://img.shields.io/badge/Email-votre.email%40example.com-informational"></a>
   <a href="https://www.linkedin.com/in/nathanael-kouakou"><img src="https://img.shields.io/badge/LinkedIn-nathanael--kouakou-blue"></a>
   <a href="https://github.com/votreprofil"><img src="https://img.shields.io/badge/GitHub-votreprofil-black"></a>
 </p>
 
 ## À propos de moi
 
-Étudiant en développement avec une expertise en géomatique, passionné par les technologies de l'information géographique et le développement d'applications web. Expériences variées allant de la gestion de projets de collecte de données à la création d'applications web et mobiles innovantes.
+Étudiant en géomatique, passionné par les technologies de l'information géographique et le développement d'applications web. Je fais briller la donnée géographique.
 
 ## Expérience Professionnelle
 
-### Développeur Full Stack chez YOWL
+### Développeur stagiaire chez KONDRO NETWORK
 *Date de début - Date de fin*
 - Développement d'une application web pour centraliser les commentaires sur du contenu trouvé sur Internet.
 - Utilisation de PHP, JS, Laravel, Vue.js, et Docker.
 - Mise en place d'un dépôt GitHub complet et développement d'un MVP.
 - Déploiement de l'application sur Heroku.
 
-### Géomaticien Expert
-*Date de début - Date de fin*
-- Sollicité par le gouvernement pour développer une application de collecte de données mobile.
-- Application des SIG, modélisation spatiale et cartographie numérique, notamment pour l'agriculture.
+
 
 ## Formation
 
@@ -38,7 +35,7 @@
 
 ### Licence en Géographie
 *Date de début - Date de fin*
-- [Nom de l'Université]
+- [Université Félix Houphouet Boigny]
 
 ## Compétences
 
@@ -78,7 +75,6 @@
 
 ## Centres d'intérêt
 - Géomarketing
-- Développement immobilier
 - Protection environnementale
 - Formation et soutien des étudiants
 
