@@ -28,7 +28,7 @@ Je suis étudiant en développement à Epitech et passionné par la géomatique,
 
 ## 📫 Me contacter :
 - 📧 Email : [nathanael.kkou@gmail.com](mailto:nathanael.kkou@gmail.com)
-- 💼 LinkedIn : [tonlinkedin](https://www.linkedin.com/in/kouakou-nathanael/)
-- 🌐 Portfolio : [tonportfolio.com](https://nathanaelkouakou.netlify.app/)
+- 💼 LinkedIn : [https://www.linkedin.com/in/kouakou-nathanael/](https://www.linkedin.com/in/kouakou-nathanael/)
+- 🌐 Portfolio : [nathanael.com](https://nathanaelkouakou.netlify.app/)
 
 Merci de visiter mon profil ! 🚀
