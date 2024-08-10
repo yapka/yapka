@@ -27,7 +27,7 @@ Je suis étudiant en développement à Epitech et passionné par la géomatique,
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4B8BBE?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ## 📫 Me contacter :
-- 📧 Email : [tonemail@example.com](mailto:bekous2000@gmail.com)
+- 📧 Email : [nathanael.kkou@gmail.com](mailto:nathanael.kkou@gmail.com)
 - 💼 LinkedIn : [tonlinkedin](https://www.linkedin.com/in/kouakou-nathanael/)
 - 🌐 Portfolio : [tonportfolio.com](https://nathanaelkouakou.netlify.app/)
 
