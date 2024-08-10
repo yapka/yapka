@@ -1,11 +1,11 @@
 # Salut, je suis Nathanael KOUAKOU 👋
 
-Je suis étudiant en développement à Epitech et passionné par la géomatique, le développement web, et le machine learning. Actuellement, je travaille sur [YOWL](https://github.com/tonrepo/yowl), une application web ambitieuse visant à centraliser les commentaires sur tout contenu trouvé sur Internet. 
+Je suis étudiant en développement à Epitech et passionné par la géomatique, le développement web, et le machine learning.
 
 ## 🌱 En ce moment, j'apprends :
 - Vue.js et Tailwind CSS
 - Développement avec Python, notamment la classification linéaire et le NLP
-- Data visualisation et machine learning
+- Data visualisation et machine learning.
 
 ## 🚀 Projets récents :
 - **[YOWL](https://github.com/tonrepo/yowl)** : Application web pour centraliser les commentaires en ligne.
@@ -27,8 +27,8 @@ Je suis étudiant en développement à Epitech et passionné par la géomatique,
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4B8BBE?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ## 📫 Me contacter :
-- 📧 Email : [tonemail@example.com](mailto:tonemail@example.com)
-- 💼 LinkedIn : [tonlinkedin](https://linkedin.com/in/tonlinkedin)
-- 🌐 Portfolio : [tonportfolio.com](https://tonportfolio.com)
+- 📧 Email : [tonemail@example.com](mailto:bekous2000@gmail.com)
+- 💼 LinkedIn : [tonlinkedin](https://www.linkedin.com/in/kouakou-nathanael/)
+- 🌐 Portfolio : [tonportfolio.com](https://nathanaelkouakou.netlify.app/)
 
 Merci de visiter mon profil ! 🚀
