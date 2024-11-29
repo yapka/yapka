@@ -9,8 +9,8 @@ Je suis étudiant en développement à Epitech et passionné par la géomatique,
 
 ## 🚀 Projets récents :
 - **[YOWL](https://github.com/tonrepo/yowl)** : Application web pour centraliser les commentaires en ligne.
-- **[Application de paiement marchand](https://github.com/tonrepo/application-paiement)** : Outil pour aider les commerçants à obtenir des avances de stock.
-- **[IoT pour les mangroves](https://github.com/tonrepo/iot-mangroves)** : Surveillance de l'état des mangroves avec des dispositifs IoT.
+- **[Application de paiement marchand](https://github.com/yapka/application-paiement)** : Outil pour aider les commerçants à obtenir des avances de stock.
+- **[IoT pour les mangroves](https://github.com/yapka/iot-mangroves)** : Surveillance de l'état des mangroves avec des dispositifs IoT.
 
 ## 🔧 Technologies que j'utilise :
 
