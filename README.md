@@ -1,18 +1,21 @@
-# Salut, je suis Nathanael KOUAKOU 👋
+
+
+
+# Bonjour, je suis Nathanael KOUAKOU
 
 Je suis étudiant en développement à Epitech et passionné par la géomatique, le développement web, et le machine learning.
 
-## 🌱 En ce moment, j'apprends :
+## En ce moment, j'apprends :
 - Vue.js et Tailwind CSS
 - Développement avec Python, notamment la classification linéaire et le NLP
 - Data visualisation et machine learning.
 
-## 🚀 Projets récents :
+## Projets récents :
 - **[YOWL](https://github.com/tonrepo/yowl)** : Application web pour centraliser les commentaires en ligne.
 - **[Application de paiement marchand](https://github.com/yapka/application-paiement)** : Outil pour aider les commerçants à obtenir des avances de stock.
 - **[IoT pour les mangroves](https://github.com/yapka/iot-mangroves)** : Surveillance de l'état des mangroves avec des dispositifs IoT.
 
-## 🔧 Technologies que j'utilise :
+##  Technologies que j'utilise :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,4 +34,4 @@ Je suis étudiant en développement à Epitech et passionné par la géomatique,
 - 💼 LinkedIn : [https://www.linkedin.com/in/kouakou-nathanael/](https://www.linkedin.com/in/kouakou-nathanael/)
 - 🌐 Portfolio : [nathanael.com](https://nathanaelkouakou.netlify.app/)
 
-Merci de visiter mon profil ! 🚀
+Merci de visiter mon profil !
