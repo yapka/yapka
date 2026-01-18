@@ -3,7 +3,7 @@
 
 # Bonjour, je suis Nathanael KOUAKOU
 
-![global](https://cdn.geotribu.fr/img/internal/contribution/embed_image/coronelli_globe_celeste.jpg){: .img-thumbnail-left }
+![global](https://cdn.geotribu.fr/img/internal/contribution/embed_image/coronelli_globe_celeste.jpg)
 
 Je suis étudiant en développement à Epitech et passionné par la géomatique, le développement web, et le machine learning.
 
